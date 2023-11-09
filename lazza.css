@@ -1,0 +1,356 @@
+
+*{
+        padding: 0px;
+        margin: 0px;
+}
+.container{
+        width:100%;
+        height: 100%;
+}
+.header{
+        position: fixed;
+        width:100%;
+        height:93px;
+        background-color: black;
+        border-bottom:0.01mm solid rgb(89, 92, 89);
+        
+}
+.headerone{
+        height:100%;
+        width: 55%;
+        background-color:black;
+        float: left;
+}
+.headertwo{
+        height:100%;
+        width: 403px;
+        background-color:black;
+        float:left
+        
+}
+.headertree{
+       
+       
+        height:41%;
+        width: 150px;
+        padding: 16px;
+        margin-top: 11px;
+        background-color:rgb(12, 12, 12);
+        float: left;     
+}
+.logosize{
+        height:67px;
+        margin-left: 43px;
+        margin-top: 10px;
+}
+.headername{
+        margin-top: 35px;
+        list-style-type: none;
+        font-size: 14px;
+        color: blac;
+        margin-left: 12px;
+        float: left;
+        color:aliceblue;
+    
+}
+.nav-link{
+        width: 0px;
+        font-size: 16px;
+        margin-left: 5px;
+        margin-top: 5px;
+        
+
+}
+.child1{
+        width: 100%;
+        height: 100%;
+}
+.child1img{
+        width: 100%;
+        height: 100%;
+}
+.parentdiv{
+
+        margin-top: -4px;
+        height: 100%;
+        width: 100%;
+        background-color:white;
+}
+.pheader{
+        height: 00px;
+        width:990px;
+        padding: 66px;
+        background-color:white;
+        padding-left: 293px;
+}
+.wideh1{
+        font-size: 43px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight:500;
+       
+}
+
+
+.pchil1{
+       
+        height: 275px;
+        width: 33%;
+        background-color: white;
+        float: left;
+}
+.pchil2{
+       
+        height: 275px;
+        width:33%;
+        background-color:white;
+        float: left;
+}
+.pchil3{
+       
+        height: 275px;
+        width:34%;
+        background-color: white;
+        float: left;
+}
+.imgpchil1{
+        height: 275px;
+        width: 376px;
+        margin-left: 68px;
+        
+        
+}
+.imgpchil2{
+        height: 275px;
+        width: 376px;
+        margin-left: 68px;
+        
+        
+}.imgpchil3{
+        height: 275px;
+        width: 376px;
+        margin-left: 38px;
+        
+        
+}
+.pchilname1{
+        width: 33%;
+        height: 65px;
+        background-color:white;
+        float: left;
+}
+.pchilname2{
+        width: 33%;
+        height: 65px;
+        background-color: white;
+        float: left;
+}
+.pchilname3{
+        width: 34%;
+        height: 65px;
+        background-color: white;
+        float: left;
+}
+.name{
+        font-family: 'Open Sans Condensed', sans-serif;
+        margin-left: 178px;
+
+}
+
+.pchil4{
+       
+        height: 275px;
+        width: 33%;
+        background-color: white;
+        float: left;
+}
+.pchil5{
+       
+        height: 275px;
+        width:33%;
+        background-color: white;
+        float: left;
+}
+.pchil6{
+       
+        height: 275px;
+        width:34%;
+        background-color: white;
+        float: left;
+}
+.imgpchil4{
+        height: 275px;
+        width: 376px;
+        margin-left: 68px;
+        
+        
+}
+.imgpchil5{
+        height: 275px;
+        width: 376px;
+        margin-left: 68px;
+        
+        
+}.imgpchil6{
+        height: 275px;
+        width: 376px;
+        margin-left: 38px;
+        
+        
+}
+.pchilname4{
+        width: 33%;
+        height: 65px;
+        background-color: white;
+        float: left;
+}
+.pchilname5{
+        width: 33%;
+        height: 65px;
+        background-color: white;
+        float: left;
+}
+.pchilname6{
+        width: 34%;
+        height: 65px;
+        background-color:white;
+        float: left;
+}
+.name{
+        font-family: 'Open Sans Condensed', sans-serif;
+        margin-left: 178px;
+
+}
+.imgmore{
+        height: 220px;
+        width: 1349px;
+        background-color:white;
+        float: left;
+}
+.imgposition{
+        height: 100%;
+        width: 100%;
+
+}
+.footer{
+        height: 220px;
+        width: 1349px;
+        background-color:black;
+        
+        float: left;
+
+}
+.fchil1{
+        height: 193px;
+        width:273px;
+        background-color:black;
+        float: left;
+        padding-top: 27px;
+        
+}
+.fchil2{
+        padding-top: 18px;
+        height: 202px;
+        width:237px;
+        background-color:black;
+        float: left;
+
+}
+.simos_logo{
+        height: 135px;
+        width: 136px;
+        margin-left: 72px;
+       
+
+}
+.helpcolor{
+        color:#be9509;
+        font-size: 17px;
+        font-family: 'Open Sans Condensed', sans-serif;
+        margin-bottom: 10px;
+}
+
+.footername1{
+        color: #be9509 ;
+        font-size: 16px;
+        font-weight: 400;
+        font-family: 'Open Sans Condensed', sans-serif;
+        list-style-type: none;
+        margin-bottom: 8px;
+}
+.fchil3{
+        padding-top: 18px;
+        height: 202px;
+        width:184px;
+        background-color:black;
+        float: left;
+}
+.fchil4{
+        padding-top: 18px;
+        height: 202px;
+        width:199px;
+        background-color:black;
+        float: left;
+}
+.fchil5{
+        padding-top: 18px;
+        height: 202px;
+        width:199px;
+        background-color:black;
+        float: left;
+}
+.pnum{
+        font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    color: #be9509;
+    
+}
+.weblogo{
+        height: 32px;
+        margin-left: 3px;
+}
+.fchil6{
+        padding-top: 18px;
+        height: 202px;
+        width:257px;
+        background-color:black;
+        float: left;
+        
+}
+.footlogo{
+        height: 123px;
+        margin-top: 19px;
+}
+.lastfooter{
+        
+        height: 73px;
+        width: 1254px;
+background-color:black;
+border-top:0.05mm solid rgb(89, 92, 89);
+
+  z-index: 10000; 
+   float: left;  
+  
+}
+.footerdetails{
+        color:#be9509;
+        margin-top: 28px;
+    margin-left: 35px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    word-spacing: 1px;
+   
+}
+.lastfooterw{
+        height: 73px;
+        width:95px;
+        background-color:black;
+        border-top:0.05mm solid rgb(89, 92, 89);
+        float: left;
+        
+
+}
+.wlogo{
+        height: 60px;
+        width: 60px;
+}
+
