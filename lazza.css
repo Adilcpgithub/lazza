@@ -350,6 +350,7 @@ border-top:0.05mm solid rgb(89, 92, 89);
 
 }
 .wlogo{
+        position:sticky;
         height: 60px;
         width: 60px;
 }
